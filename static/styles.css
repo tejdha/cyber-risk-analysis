@@ -1,0 +1,18 @@
+body.dark-theme {
+  background-color: #0f172a;
+  color: #ffffff;
+  font-family: 'Inter', sans-serif;
+}
+
+.card {
+  background-color: #1e293b;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 12px 0;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+}
+
+.navbar, .sidebar, .footer {
+  background-color: #1e1e2f;
+  padding: 12px;
+}
